@@ -1,2 +1,3 @@
 #Login and Registration
-Login and  Registration page using firebase authentication 
+>Login and  Registration page using firebase authentication
+<hr> 
